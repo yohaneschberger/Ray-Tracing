@@ -11,6 +11,12 @@
   - Réflexion : Support des effets de réflexion pour les matériaux réfléchissants.
   - Support des Textures : Intégration de textures pour ajouter des détails réalistes aux objets.
 
+# Futur Ajouts
+
+  - Réfraction : Support des effets de réfraction pour les matériaux transparents.
+  - Nouveaux Objet3D tels que Parallélipipède, Triangles.
+  - Modélisations des Objets3D à base de Triangles.
+ 
 # Licence
 
   Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d'informations.
